@@ -23,7 +23,7 @@ This project is used by the following FiveM Servers:
 
 
 ## 🛠 Skills
-Open IV, Photoshop, Lua etc
+Basic FiveM Coding Idea, Open IV, Photoshop[For Liveries], Lua etc
 
 
 ## 🔗 Links
